@@ -11,8 +11,7 @@ const projectsData = [
     description: "Project 1",
     image: "/images/projects/1.jpeg",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/harshita-india/portfolio2",
   },
   {
     id: 2,
@@ -20,8 +19,7 @@ const projectsData = [
     description: "Project 2",
     image: "/images/projects/2.jpg",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/harshita-india/netflix",
   },
   {
     id: 3,
@@ -29,8 +27,7 @@ const projectsData = [
     description: "Project 3",
     image: "/images/projects/logo.svg",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/harshita-india/Promptopia",
   },
   {
     id: 4,
@@ -38,8 +35,7 @@ const projectsData = [
     description: "Project 4",
     image: "/images/projects/4.jpg",
     tag: ["All", "ML"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/harshita-india/Mental-stress-detection-system",
   },
   
 ];
